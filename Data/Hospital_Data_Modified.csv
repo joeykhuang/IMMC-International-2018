@@ -1,0 +1,181 @@
+,State,Measure Name,Discharges,LOS_mean,LOS_median,In-hospital deaths,In-hospital deaths: %,Total Death,Percentage Death
+0,AZ,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,11239,4.0792775158,3,508,4.519975,1688,0.300947867299
+1,AZ,Heart failure (HF) 30-Day Mortality Rate,12965,4.7747011184,4,232,1.789433,,0.137440758294
+2,AZ,Death rate for stroke patients,11244,4.8014941302,3,512,4.55354,,0.303317535545
+3,AZ,Pneumonia (PN) 30-Day Mortality Rate,17064,4.7670534459,4,353,2.068683,,0.209123222749
+4,AZ,Death rate for chronic obstructive pulmonary disease (COPD) patients,8884,4.2418955425,3,83,0.934264,,0.0491706161137
+5,AR,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,6618,4.2645814445,3,1688,4.835298,2907,0.580667354661
+6,AR,Heart failure (HF) 30-Day Mortality Rate,10232,4.8678655199,4,324,3.166536,,0.111455108359
+7,AR,Death rate for stroke patients,6099,4.9954090835,3,416,6.82079,,0.143102855177
+8,AR,Pneumonia (PN) 30-Day Mortality Rate,12697,4.8824919272,4,373,2.937702,,0.128310973512
+9,AR,Death rate for chronic obstructive pulmonary disease (COPD) patients,8536,3.961574508,3,106,1.241799,,0.0364637082903
+10,CA,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,53769,4.223478649,3,2759,5.131209,12741,0.216545012165
+11,CA,Heart failure (HF) 30-Day Mortality Rate,76091,4.8274339191,3,2206,2.89916,,0.173141825602
+12,CA,Death rate for stroke patients,58889,5.6690612051,3,5027,8.536399,,0.394553017816
+13,CA,Pneumonia (PN) 30-Day Mortality Rate,67784,5.131835217,4,2282,3.366576,,0.179106820501
+14,CA,Death rate for chronic obstructive pulmonary disease (COPD) patients,36695,4.2788985823,3,467,1.272653,,0.0366533239149
+15,CO,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,6573,3.6973984482,2,274,4.168568,1258,0.217806041335
+16,CO,Heart failure (HF) 30-Day Mortality Rate,7314,5.064807219,4,197,2.693465,,0.156597774245
+17,CO,Death rate for stroke patients,6571,5.6198447725,3,517,7.867904,,0.410969793323
+18,CO,Pneumonia (PN) 30-Day Mortality Rate,11396,4.0014917515,3,226,1.983152,,0.179650238474
+19,CO,Death rate for chronic obstructive pulmonary disease (COPD) patients,4234,3.7586206897,3,44,1.039206,,0.0349761526232
+20,FL,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,45556,4.7517341294,3,2203,4.835806,8853,0.248842200384
+21,FL,Heart failure (HF) 30-Day Mortality Rate,67831,5.2618457909,4,1646,2.426619,,0.185925674912
+22,FL,Death rate for stroke patients,43381,5.9561989949,4,2821,6.502847,,0.318649045521
+23,FL,Pneumonia (PN) 30-Day Mortality Rate,63937,5.2815359349,4,1567,2.45085,,0.177002146165
+24,FL,Death rate for chronic obstructive pulmonary disease (COPD) patients,58073,4.4596283987,4,616,1.060734,,0.0695809330171
+25,HI,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,2770,5.1707581227,3,162,5.848375,672,0.241071428571
+26,HI,Heart failure (HF) 30-Day Mortality Rate,3029,5.3202377022,4,100,3.30142,,0.14880952381
+27,HI,Death rate for stroke patients,2923,6.5980157373,4,268,9.168662,,0.39880952381
+28,HI,Pneumonia (PN) 30-Day Mortality Rate,2684,5.6861721953,4,114,4.247392,,0.169642857143
+29,HI,Death rate for chronic obstructive pulmonary disease (COPD) patients,1232,5.2670454545,4,28,2.272727,,0.0416666666667
+30,IL,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,22051,4.6307650447,3,1052,4.770759,5017,0.209687063982
+31,IL,Heart failure (HF) 30-Day Mortality Rate,38418,5.4883908585,4,969,2.522255,,0.193143312737
+32,IL,Death rate for stroke patients,23752,5.5231980465,4,1691,7.1194,,0.337054016344
+33,IL,Pneumonia (PN) 30-Day Mortality Rate,38103,5.0475815553,4,1041,2.732068,,0.207494518637
+34,IL,Death rate for chronic obstructive pulmonary disease (COPD) patients,25323,4.3902776132,3,264,1.042531,,0.0526210882998
+35,IN,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,14616,4.2549261084,3,692,4.734537,3032,0.228232189974
+36,IN,Heart failure (HF) 30-Day Mortality Rate,20423,5.1372961857,4,664,3.251236,,0.218997361478
+37,IN,Death rate for stroke patients,13300,5.1306766917,4,916,6.887218,,0.302110817942
+38,IN,Pneumonia (PN) 30-Day Mortality Rate,21875,4.8845714286,4,577,2.637714,,0.190303430079
+39,IN,Death rate for chronic obstructive pulmonary disease (COPD) patients,17151,4.0779591837,3,183,1.066993,,0.0603562005277
+40,IA,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,5966,3.8181361046,3,306,5.129065,1311,0.233409610984
+41,IA,Heart failure (HF) 30-Day Mortality Rate,8082,4.6052468754,4,275,3.402623,,0.209763539283
+42,IA,Death rate for stroke patients,5272,4.6788694992,3,364,6.904401,,0.27765064836
+43,IA,Pneumonia (PN) 30-Day Mortality Rate,12478,4.3034941497,3,291,2.332105,,0.221967963387
+44,IA,Death rate for chronic obstructive pulmonary disease (COPD) patients,5466,3.762349067,3,75,1.372119,,0.0572082379863
+45,KS,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,4247,4.2406404521,3,199,4.68566,1153,0.172593235039
+46,KS,Heart failure (HF) 30-Day Mortality Rate,7184,4.7549770291,4,217,3.020601,,0.188204683435
+47,KS,Death rate for stroke patients,4886,4.8334015555,3,373,7.634056,,0.323503902862
+48,KS,Pneumonia (PN) 30-Day Mortality Rate,10249,4.6556737243,4,311,3.034442,,0.269731136167
+49,KS,Death rate for chronic obstructive pulmonary disease (COPD) patients,4447,3.9615384615,3,53,1.191815,,0.0459670424978
+50,KY,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,12026,4.2799767171,3,536,4.45701,2627,0.204035020936
+51,KY,Heart failure (HF) 30-Day Mortality Rate,16784,5.1918493804,4,502,2.990944,,0.191092500952
+52,KY,Death rate for stroke patients,9631,5.3698473679,4,753,7.818503,,0.286638751427
+53,KY,Pneumonia (PN) 30-Day Mortality Rate,21494,5.0873266958,4,683,3.177631,,0.259992386753
+54,KY,Death rate for chronic obstructive pulmonary disease (COPD) patients,16569,4.1246303338,3,153,0.923411,,0.0582413399315
+55,ME,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,4269,4.2565003514,3,222,5.200281,817,0.271725826193
+56,ME,Heart failure (HF) 30-Day Mortality Rate,4089,4.766446564,4,160,3.912937,,0.195838433293
+57,ME,Death rate for stroke patients,2514,4.754176611,3,246,9.785203,,0.301101591187
+58,ME,Pneumonia (PN) 30-Day Mortality Rate,4513,4.5109683138,4,140,3.102149,,0.171358629131
+59,ME,Death rate for chronic obstructive pulmonary disease (COPD) patients,3111,3.9546769527,3,49,1.575056,,0.0599755201958
+60,MD,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,9733,4.2098017055,3,484,4.972773,2364,0.204737732657
+61,MD,Heart failure (HF) 30-Day Mortality Rate,16874,5.0685670262,4,477,2.826834,,0.201776649746
+62,MD,Death rate for stroke patients,11598,5.3146503406,3,847,7.302983,,0.358291032149
+63,MD,Pneumonia (PN) 30-Day Mortality Rate,14589,4.5563095483,3,387,2.652684,,0.163705583756
+64,MD,Death rate for chronic obstructive pulmonary disease (COPD) patients,9888,4.1228762136,3,169,1.709142,,0.071489001692
+65,MA,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,12519,4.4868599728,3,638,5.096254,3060,0.208496732026
+66,MA,Heart failure (HF) 30-Day Mortality Rate,22311,5.4152398028,4,711,3.186769,,0.232352941176
+67,MA,Death rate for stroke patients,12165,5.3701602959,3,1047,8.606658,,0.342156862745
+68,MA,Pneumonia (PN) 30-Day Mortality Rate,18734,4.7109533469,4,540,2.88246,,0.176470588235
+69,MA,Death rate for chronic obstructive pulmonary disease (COPD) patients,13582,4.1093358857,3,124,0.912973,,0.040522875817
+70,MI,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,23354,4.5582341355,3,1080,4.624475,3998,0.270135067534
+71,MI,Heart failure (HF) 30-Day Mortality Rate,32757,5.205702772,4,819,2.500229,,0.204852426213
+72,MI,Death rate for stroke patients,20001,5.2452877356,4,1294,6.469677,,0.323661830915
+73,MI,Pneumonia (PN) 30-Day Mortality Rate,27603,4.8548346194,4,604,2.188168,,0.151075537769
+74,MI,Death rate for chronic obstructive pulmonary disease (COPD) patients,22364,4.2982918977,3,201,0.898766,,0.0502751375688
+75,MN,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,9374,3.6440153616,2,410,4.3738,1897,0.216130732736
+76,MN,Heart failure (HF) 30-Day Mortality Rate,12424,4.5448398004,3,404,3.251771,,0.212967843964
+77,MN,Death rate for stroke patients,8956,4.5487941045,3,707,7.894149,,0.372693726937
+78,MN,Pneumonia (PN) 30-Day Mortality Rate,13219,3.8067176034,3,290,2.193812,,0.152872957301
+79,MN,Death rate for chronic obstructive pulmonary disease (COPD) patients,5986,3.411293017,3,86,1.436686,,0.0453347390617
+80,MS,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,13862,4.3130139951,3,730,5.266195,3332,0.219087635054
+81,MS,Heart failure (HF) 30-Day Mortality Rate,21424,5.2728248693,4,637,2.973301,,0.191176470588
+82,MS,Death rate for stroke patients,14317,4.9575330027,3,1147,8.011455,,0.344237695078
+83,MS,Pneumonia (PN) 30-Day Mortality Rate,24120,4.7775934986,4,683,2.831675,,0.204981992797
+84,MS,Death rate for chronic obstructive pulmonary disease (COPD) patients,14300,3.8665034965,3,135,0.944056,,0.0405162064826
+85,NE,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,2940,4.0115646259,3,133,4.52381,790,0.16835443038
+86,NE,Heart failure (HF) 30-Day Mortality Rate,3878,4.8254254771,4,137,3.532749,,0.173417721519
+87,NE,Death rate for stroke patients,3010,4.7006644518,3,278,9.23588,,0.351898734177
+88,NE,Pneumonia (PN) 30-Day Mortality Rate,5920,4.4603040541,4,174,2.939189,,0.220253164557
+89,NE,Death rate for chronic obstructive pulmonary disease (COPD) patients,3151,4.0304665186,3,68,2.158045,,0.0860759493671
+90,NV,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,5107,5.1730957509,3,347,6.794596,1241,0.279613215149
+91,NV,Heart failure (HF) 30-Day Mortality Rate,6015,4.9995012469,3,163,2.709892,,0.131345688961
+92,NV,Death rate for stroke patients,4840,7.1679752066,4,459,9.483471,,0.369863013699
+93,NV,Pneumonia (PN) 30-Day Mortality Rate,7279,5.3444154417,3,212,2.912488,,0.170829975826
+94,NV,Death rate for chronic obstructive pulmonary disease (COPD) patients,4076,4.0154563297,3,60,1.472031,,0.0483481063658
+95,NJ,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,18639,5.0692633725,3,1012,5.429476,4042,0.250371103414
+96,NJ,Heart failure (HF) 30-Day Mortality Rate,26850,5.7218621974,4,841,3.132216,,0.208065314201
+97,NJ,Death rate for stroke patients,17460,6.5123725513,4,1314,7.525773,,0.325086590797
+98,NJ,Pneumonia (PN) 30-Day Mortality Rate,21717,5.3647373026,4,666,3.066722,,0.164769915883
+99,NJ,Death rate for chronic obstructive pulmonary disease (COPD) patients,15461,5.0692063903,4,209,1.351788,,0.0517070757051
+100,NM,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,3140,3.9687898089,3,144,4.585987,642,0.224299065421
+101,NM,Heart failure (HF) 30-Day Mortality Rate,3550,4.5154929577,4,85,2.394366,,0.132398753894
+102,NM,Death rate for stroke patients,2669,4.9430284858,3,203,7.605845,,0.316199376947
+103,NM,Pneumonia (PN) 30-Day Mortality Rate,6037,4.4028490972,3,163,2.700017,,0.253894080997
+104,NM,Death rate for chronic obstructive pulmonary disease (COPD) patients,2828,3.8985148515,3,47,1.661952,,0.0732087227414
+105,NY,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,33407,5.1484508307,3,1831,5.480887,9475,0.193245382586
+106,NY,Heart failure (HF) 30-Day Mortality Rate,56817,6.4001795395,4,2174,3.82632,,0.22944591029
+107,NY,Death rate for stroke patients,34579,7.1511338656,5,3219,9.309118,,0.339736147757
+108,NY,Pneumonia (PN) 30-Day Mortality Rate,46072,5.6266116779,4,1632,3.542282,,0.172242744063
+109,NY,Death rate for chronic obstructive pulmonary disease (COPD) patients,32225,5.0926299457,4,619,1.920869,,0.0653298153034
+110,NC,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,20038,4.3956482683,3,977,4.875736,4455,0.219304152637
+111,NC,Heart failure (HF) 30-Day Mortality Rate,31816,5.2546517475,4,934,2.93563,,0.209652076319
+112,NC,Death rate for stroke patients,21066,5.3914364379,3,1524,7.234406,,0.342087542088
+113,NC,Pneumonia (PN) 30-Day Mortality Rate,27447,5.074288629,4,847,3.085947,,0.19012345679
+114,NC,Death rate for chronic obstructive pulmonary disease (COPD) patients,18479,4.0838789978,3,173,0.936198,,0.0388327721661
+115,ND,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,2178,4.08815427,3,119,5.463728,434,0.274193548387
+116,ND,Heart failure (HF) 30-Day Mortality Rate,1768,4.7171945701,4,76,4.298643,,0.175115207373
+117,ND,Death rate for stroke patients,1436,4.9839832869,3,154,10.724234,,0.354838709677
+118,ND,Pneumonia (PN) 30-Day Mortality Rate,2058,4.7458697765,4,67,3.255588,,0.154377880184
+119,ND,Death rate for chronic obstructive pulmonary disease (COPD) patients,796,3.9221105528,3,18,2.261307,,0.0414746543779
+120,OK,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,8178,4.3625580827,3,422,5.160186,2077,0.203177660087
+121,OK,Heart failure (HF) 30-Day Mortality Rate,10947,5.1172924089,4,385,3.516945,,0.185363505055
+122,OK,Death rate for stroke patients,7389,5.4227125068,4,686,9.284071,,0.330284063553
+123,OK,Pneumonia (PN) 30-Day Mortality Rate,15053,5.1199096526,4,460,3.055869,,0.221473278767
+124,OK,Death rate for chronic obstructive pulmonary disease (COPD) patients,9555,4.2737833595,3,124,1.29775,,0.0597014925373
+125,OR,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,6778,3.7508114488,2,358,5.281794,1497,0.23914495658
+126,OR,Heart failure (HF) 30-Day Mortality Rate,8771,4.4359822141,3,294,3.351955,,0.196392785571
+127,OR,Death rate for stroke patients,6851,4.6366953729,3,597,8.714056,,0.39879759519
+128,OR,Pneumonia (PN) 30-Day Mortality Rate,7626,4.0399947548,3,197,2.583268,,0.131596526386
+129,OR,Death rate for chronic obstructive pulmonary disease (COPD) patients,3944,3.5469066937,3,51,1.293103,,0.0340681362725
+130,RI,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,2288,3.7565559441,3,104,4.545455,480,0.216666666667
+131,RI,Heart failure (HF) 30-Day Mortality Rate,3727,4.8191574993,4,114,3.05876,,0.2375
+132,RI,Death rate for stroke patients,2002,4.6711644178,3,151,7.542458,,0.314583333333
+133,RI,Pneumonia (PN) 30-Day Mortality Rate,2457,4.7138787139,4,82,3.337403,,0.170833333333
+134,RI,Death rate for chronic obstructive pulmonary disease (COPD) patients,2352,4.4179421769,3,29,1.232993,,0.0604166666667
+135,SC,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,9662,4.683295384,3,474,4.905817,2274,0.208443271768
+136,SC,Heart failure (HF) 30-Day Mortality Rate,15197,5.1929986181,4,485,3.191419,,0.213280562885
+137,SC,Death rate for stroke patients,10775,6.547386986,4,762,7.071926,,0.335092348285
+138,SC,Pneumonia (PN) 30-Day Mortality Rate,13389,5.2632758234,4,439,3.278811,,0.193051890941
+139,SC,Death rate for chronic obstructive pulmonary disease (COPD) patients,9881,4.3332658638,3,114,1.153729,,0.0501319261214
+140,TN,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,14899,4.6000402712,3,712,4.778844,3545,0.200846262341
+141,TN,Heart failure (HF) 30-Day Mortality Rate,18835,5.322909477,4,643,3.413857,,0.181382228491
+142,TN,Death rate for stroke patients,13893,5.4686532786,4,1280,9.213273,,0.361071932299
+143,TN,Pneumonia (PN) 30-Day Mortality Rate,21177,5.1079000803,4,739,3.489635,,0.208462623413
+144,TN,Death rate for chronic obstructive pulmonary disease (COPD) patients,15060,4.0961487384,3,171,1.135458,,0.0482369534556
+145,TX,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,42301,4.9083000402,3,2284,5.3994,9739,0.234520998049
+146,TX,Heart failure (HF) 30-Day Mortality Rate,63377,5.5452924563,4,1790,2.824368,,0.183797104426
+147,TX,Death rate for stroke patients,43734,5.9274706178,4,3283,7.506745,,0.337098264709
+148,TX,Pneumonia (PN) 30-Day Mortality Rate,66132,5.6519635269,4,1863,2.817093,,0.191292740528
+149,TX,Death rate for chronic obstructive pulmonary disease (COPD) patients,37932,4.8131129389,4,519,1.368238,,0.0532908922887
+150,UT,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,2975,3.7082352941,2,139,4.672269,674,0.206231454006
+151,UT,Heart failure (HF) 30-Day Mortality Rate,3133,4.982444941,3,123,3.92595,,0.182492581602
+152,UT,Death rate for stroke patients,2946,4.3842498303,3,259,8.791582,,0.384272997033
+153,UT,Pneumonia (PN) 30-Day Mortality Rate,5232,3.6660932722,3,133,2.542049,,0.197329376855
+154,UT,Death rate for chronic obstructive pulmonary d,1345,4.117472119,3,20,1.486989,,0.0296735905045
+155,VT,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,1135,3.8986784141,2,57,5.022026,318,0.179245283019
+156,VT,Heart failure (HF) 30-Day Mortality Rate,1346,4.1641901932,3,63,4.680535,,0.198113207547
+157,VT,Death rate for stroke patients,847,5.5950413223,3,94,11.097993,,0.295597484277
+158,VT,Pneumonia (PN) 30-Day Mortality Rate,1750,4.172,3,85,4.857143,,0.267295597484
+159,VT,Death rate for chronic obstructive pulmonary disease (COPD) patients,1093,3.7273559012,3,19,1.738335,,0.059748427673
+160,WA,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,11160,4.0338709677,3,597,5.349462,2516,0.237281399046
+161,WA,Heart failure (HF) 30-Day Mortality Rate,14682,4.9495981474,4,524,3.568996,,0.20826709062
+162,WA,Death rate for stroke patients,11788,5.0917034272,3,965,8.186291,,0.383545310016
+163,WA,Pneumonia (PN) 30-Day Mortality Rate,11990,4.3382819016,3,348,2.902419,,0.138314785374
+164,WA,Death rate for chronic obstructive pulmonary disease (COPD) patients,5902,3.8724161301,3,82,1.38936,,0.0325914149444
+165,WV,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,6771,4.9169989662,3,330,4.873726,1384,0.238439306358
+166,WV,Heart failure (HF) 30-Day Mortality Rate,7292,5.2581972836,4,256,3.510697,,0.184971098266
+167,WV,Death rate for stroke patients,4330,5.5575057737,4,411,9.491917,,0.296965317919
+168,WV,Pneumonia (PN) 30-Day Mortality Rate,9346,5.2942435266,4,295,3.156431,,0.213150289017
+169,WV,Death rate for chronic obstructive pulmonary disease (COPD) patients,7874,4.3593849282,3,92,1.168402,,0.0664739884393
+170,WI,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,10073,4.0063536186,3,557,5.529634,2386,0.233445096396
+171,WI,Heart failure (HF) 30-Day Mortality Rate,15111,4.5338495136,3,479,3.169876,,0.200754400671
+172,WI,Death rate for stroke patients,9790,5.0090909091,3,832,8.498468,,0.348700754401
+173,WI,Pneumonia (PN) 30-Day Mortality Rate,15206,4.2298434828,3,428,2.814678,,0.179379715004
+174,WI,Death rate for chronic obstructive pulmonary disease (COPD) patients,7779,3.7277284998,3,90,1.156961,,0.0377200335289
+175,WY,Acute Myocardial Infarction (AMI) 30-Day Mortality Rate,751,4.1677762983,3,39,5.193076,185,0.210810810811
+176,WY,Heart failure (HF) 30-Day Mortality Rate,992,4.6572580645,4,44,4.435484,,0.237837837838
+177,WY,Death rate for stroke patients,500,4.072,3,31,6.2,,0.167567567568
+178,WY,Pneumonia (PN) 30-Day Mortality Rate,1744,3.98163031,3,45,2.580275,,0.243243243243
+179,WY,Death rate for chronic obstructive pulmonary disease (COPD) patients,902,3.7633333333,3,26,2.882483,,0.140540540541
